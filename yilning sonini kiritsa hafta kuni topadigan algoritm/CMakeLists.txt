@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(yilning_sonini_kiritsa_hafta_kuni_topadigan_algoritm)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(yilning_sonini_kiritsa_hafta_kuni_topadigan_algoritm main.cpp)

@@ -1,0 +1,3 @@
+/home/bek/CLionProjects/polindrome sonlar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bek/CLionProjects/polindrome sonlar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bek/CLionProjects/polindrome sonlar/cmake-build-debug/CMakeFiles/polindrome_sonlar.dir

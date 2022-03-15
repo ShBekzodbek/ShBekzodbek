@@ -1,0 +1,3 @@
+/home/bek/CLionProjects/toq o'rinda turgan sonlar yig'indisi juft o'rinda turgan sonlar yig'indisiga teng bo'lganda ha aks holda yo'q/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bek/CLionProjects/toq o'rinda turgan sonlar yig'indisi juft o'rinda turgan sonlar yig'indisiga teng bo'lganda ha aks holda yo'q/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bek/CLionProjects/toq o'rinda turgan sonlar yig'indisi juft o'rinda turgan sonlar yig'indisiga teng bo'lganda ha aks holda yo'q/cmake-build-debug/CMakeFiles/toq_o_rinda_turgan_sonlar_yig_indisi_juft_o_rinda_turgan_sonlar_yig_indisiga_teng_bo_lganda_ha_aks_holda_yo_q.dir

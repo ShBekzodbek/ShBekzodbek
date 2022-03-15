@@ -1,0 +1,3 @@
+/home/bek/CLionProjects/sonlarni honasini chiqarish/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bek/CLionProjects/sonlarni honasini chiqarish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bek/CLionProjects/sonlarni honasini chiqarish/cmake-build-debug/CMakeFiles/sonlarni_honasini_chiqarish.dir

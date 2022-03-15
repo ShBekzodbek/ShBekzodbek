@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "yilning_sonini_kiritsa_hafta_kuni_topadigan_algoritm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "yilning_sonini_kiritsa_hafta_kuni_topadigan_algoritm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yilning_sonini_kiritsa_hafta_kuni_topadigan_algoritm-Debug-efc0e1b04afe41b2ac16.json",
+					"name" : "yilning_sonini_kiritsa_hafta_kuni_topadigan_algoritm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bek/CLionProjects/yilning sonini kiritsa hafta kuni topadigan algoritm/cmake-build-debug",
+		"source" : "/home/bek/CLionProjects/yilning sonini kiritsa hafta kuni topadigan algoritm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

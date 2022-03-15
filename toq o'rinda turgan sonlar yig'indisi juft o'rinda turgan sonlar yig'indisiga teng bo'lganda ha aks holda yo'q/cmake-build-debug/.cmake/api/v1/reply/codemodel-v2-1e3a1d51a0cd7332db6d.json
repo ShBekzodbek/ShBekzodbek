@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "toq_o_rinda_turgan_sonlar_yig_indisi_juft_o_rinda_turgan_sonlar_yig_indisiga_teng_bo_lganda_ha_aks_holda_yo_q",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "toq_o_rinda_turgan_sonlar_yig_indisi_juft_o_rinda_turgan_sonlar_yig_indisiga_teng_bo_lganda_ha_aks_holda_yo_q::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-toq_o_rinda_turgan_sonlar_yig_indisi_juft_o_rinda_turgan_sonlar_yig_indisiga_teng_bo_lganda_ha_aks_holda_yo_q-Debug-a366f018e6010da52e92.json",
+					"name" : "toq_o_rinda_turgan_sonlar_yig_indisi_juft_o_rinda_turgan_sonlar_yig_indisiga_teng_bo_lganda_ha_aks_holda_yo_q",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bek/CLionProjects/toq o'rinda turgan sonlar yig'indisi juft o'rinda turgan sonlar yig'indisiga teng bo'lganda ha aks holda yo'q/cmake-build-debug",
+		"source" : "/home/bek/CLionProjects/toq o'rinda turgan sonlar yig'indisi juft o'rinda turgan sonlar yig'indisiga teng bo'lganda ha aks holda yo'q"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

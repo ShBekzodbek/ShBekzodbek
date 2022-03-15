@@ -1,0 +1,3 @@
+/home/bek/CLionProjects/yilning sonini kiritsa hafta kuni topadigan algoritm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bek/CLionProjects/yilning sonini kiritsa hafta kuni topadigan algoritm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bek/CLionProjects/yilning sonini kiritsa hafta kuni topadigan algoritm/cmake-build-debug/CMakeFiles/yilning_sonini_kiritsa_hafta_kuni_topadigan_algoritm.dir

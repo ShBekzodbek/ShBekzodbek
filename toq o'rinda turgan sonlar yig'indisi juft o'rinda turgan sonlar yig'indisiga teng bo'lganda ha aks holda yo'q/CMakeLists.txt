@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(toq_o_rinda_turgan_sonlar_yig_indisi_juft_o_rinda_turgan_sonlar_yig_indisiga_teng_bo_lganda_ha_aks_holda_yo_q)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(toq_o_rinda_turgan_sonlar_yig_indisi_juft_o_rinda_turgan_sonlar_yig_indisiga_teng_bo_lganda_ha_aks_holda_yo_q main.cpp)
